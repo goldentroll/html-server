@@ -555,7 +555,3 @@ html`
 `;
 // => renders fetch result
 ```
-
-## Thanks!
-
-Thanks to [Thomas Parslow](https://github.com/almost) for the [stream-template](https://github.com/almost/stream-template) library that was the inspiration for this streaming implementation, and thanks to [Justin Fagnani](https://github.com/justinfagnani) and the [team](https://github.com/Polymer/lit-html/graphs/contributors) behind the **lit-html** project!
