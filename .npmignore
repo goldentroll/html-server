@@ -1,0 +1,6 @@
+scripts
+test
+src
+.*
+pnpm-lock.yaml
+tsconfig.json
